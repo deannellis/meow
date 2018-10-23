@@ -6,8 +6,8 @@
   "license": "MIT",
   "scripts": {
     "meow": "webpack-dev-server",
-    "dev-server": "webpack-dev-server"
-    "build": "webpack",
+    "dev-server": "webpack-dev-server",
+    "build": "webpack"
   },
   "dependencies": {
     "babel-cli": "6.24.1",
