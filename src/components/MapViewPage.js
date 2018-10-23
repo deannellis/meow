@@ -10,6 +10,7 @@ export default class MapViewPage extends React.Component {
                 <p>
                     Map View | <Link to="/list">List view</Link>
                 </p>
+                <div id="mapid" className="map">Map Here</div>
             </div>
         );
     }
