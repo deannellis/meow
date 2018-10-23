@@ -1,0 +1,16 @@
+hmtl {
+    // font-size: 62.5%; //for use w/ rems
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: default;
+}
