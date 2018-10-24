@@ -2,7 +2,10 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Dean Nellis",
+  "contributors": [
+    "Carl Overton <carlryanoverton@gmail.com>",
+    "Dean Nellis <nellisdean@gmail.com> "
+  ],
   "license": "MIT",
   "scripts": {
     "meow": "webpack-dev-server",
