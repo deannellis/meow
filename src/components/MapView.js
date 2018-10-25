@@ -94,13 +94,14 @@ type State = {
             </Marker>
             {current_marker}
           </Map>
+          
           <button onClick={this.handleClick}>Find Me</button>
           <p>Lat: {this.state.current_coords.lat}</p>
           <p>Lng: {this.state.current_coords.lng}</p>
           <p>___________________</p>
-          <p>Here are the coordinates to the checkpoint:</p>
-          <p>Latitude: {this.props.checkpoint.lat}</p>
-          <p>Longitude: {this.props.checkpoint.lon}</p>
+
+          <h3>Checkpoint 1 ({this.props.checkpoint.lat}, {this.props.checkpoint.lon})</h3>
+
           <p>Press button below to see if you are at the checkpoint</p>
           <button onClick={this.handleCheckIn}>Check In</button>
           <p>{this.state.isAtCheckpoint ? 'You are here!!!' : 'You are not at the checkpoint' }</p>

@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Da",
+				"DateTimeField"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"is",
+				"is_paused"
+			],
+			[
+				"child",
+				"child_thread"
+			],
+			[
+				"print",
+				"to_print"
+			],
+			[
+				"timers",
+				"timers_array"
+			],
+			[
+				"do",
+				"do_something"
+			],
+			[
+				"index",
+				"timers_index"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"vie",
+				"viewWeek"
+			],
+			[
+				"curr",
+				"currentDay"
+			],
+			[
+				"start",
+				"startOf"
+			],
+			[
+				"co",
+				"compressed"
+			],
+			[
+				"for",
+				"For"
+			],
+			[
+				"f",
+				"firstarg\tnode-first-argument"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"one",
+				"oneaway"
+			],
+			[
+				"fu",
+				"func\tjs-basic-function"
+			],
+			[
+				"fun",
+				"func\tjs-basic-function"
+			],
+			[
+				"Images",
+				"ImagesService"
+			],
+			[
+				"test",
+				"testItems"
+			],
+			[
+				"params",
+				"appt_params"
+			],
+			[
+				"appo",
+				"appointment"
+			],
+			[
+				"appt",
+				"appt_params"
+			],
+			[
+				"get",
+				"getWeek"
+			],
+			[
+				"wee",
+				"weeklyAppointments"
+			],
+			[
+				"current",
+				"currentWeek"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"lunch",
+				"lunch_start"
+			],
+			[
+				"sele",
+				"selectedStart"
+			],
+			[
+				"selec",
+				"selectedEnd"
+			],
+			[
+				"selected",
+				"selectedEnd"
+			],
+			[
+				"selecte",
+				"selectedStart"
+			],
+			[
+				"fir",
+				"firstSlot"
+			],
+			[
+				"st",
+				"startOfDay"
+			],
+			[
+				"day",
+				"daySettings"
+			],
+			[
+				"nex",
+				"nextMonth"
+			],
+			[
+				"hours",
+				"hours_start"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"hour",
+				"hours_start"
+			],
+			[
+				"in",
+				"incoming_message_body"
+			],
+			[
+				"send",
+				"send_appt_confirmation"
+			],
+			[
+				"scd",
+				"schedule"
+			],
+			[
+				"Appoitn",
+				"AppointmentMailer"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"service",
+				"services"
+			],
+			[
+				"prods",
+				"productsTotal"
+			],
+			[
+				"po",
+				"productsPrice"
+			],
+			[
+				"serv",
+				"servicePrice"
+			],
+			[
+				"Shop",
+				"ShopProducts"
+			],
+			[
+				"slots",
+				"slotsAvailable"
+			],
+			[
+				"avail",
+				"availableSlots"
+			],
+			[
+				"date",
+				"dateString"
+			],
+			[
+				"sel",
+				"selectedService"
+			],
+			[
+				"uibModal",
+				"uibModalInstance"
+			],
+			[
+				"uib",
+				"uibModal"
+			],
+			[
+				"log",
+				"loggedIn"
+			],
+			[
+				"next",
+				"nextData"
+			],
+			[
+				"lo",
+				"loadedTemplateUrl"
+			],
+			[
+				"templat",
+				"templateUrl"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"new",
+				"newSlot"
+			],
+			[
+				"cu",
+				"currentUser"
+			],
+			[
+				"set",
+				"set_customer"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"calen",
+				"calendar-directive"
+			],
+			[
+				"calend",
+				"calendar-modal"
+			],
+			[
+				"appoit",
+				"appointments"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"password",
+				"password123"
+			],
+			[
+				"sera",
+				"searchString"
+			],
+			[
+				"search",
+				"searchString"
+			],
+			[
+				"client",
+				"client_search_term"
+			],
+			[
+				"clie",
+				"client_search_term"
+			],
+			[
+				"where",
+				"where_args"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"lift",
+				"liftId"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"cus",
+				"customEqualityTesters"
+			],
+			[
+				"to",
+				"toEqualData"
+			],
+			[
+				"de",
+				"defaults"
+			],
+			[
+				"home",
+				"homeTeam"
+			],
+			[
+				"match",
+				"matchArray"
+			],
+			[
+				"RATELIM",
+				"rate_limit"
+			],
+			[
+				"last",
+				"lastInterval"
+			],
+			[
+				"connect",
+				"connectInterval"
+			],
+			[
+				"dis",
+				"disconnect"
+			],
+			[
+				"conne",
+				"connectInterval"
+			],
+			[
+				"disc",
+				"disconnectMessage"
+			],
+			[
+				"rem",
+				"removedUpdate"
+			],
+			[
+				"array",
+				"arrayHandler"
+			],
+			[
+				"unix",
+				"unixtime"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"missed",
+				"missedUpdates"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"uib-ac",
+				"uib-accordion-group"
+			],
+			[
+				"section",
+				"section-header"
+			],
+			[
+				"findO",
+				"findOrCreateUser"
+			],
+			[
+				"bcry",
+				"bcrypt"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"confi",
+				"configDB"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"add",
+				"addQueue"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"make",
+				"makeFooter"
+			],
+			[
+				"thread",
+				"threadData"
+			],
+			[
+				"mach",
+				"matchData"
+			],
+			[
+				"sub",
+				"subreddit"
+			],
+			[
+				"self",
+				"selftext"
+			],
+			[
+				"tweet",
+				"tweetsSinceDisconnect"
+			],
+			[
+				"la",
+				"lastTweet"
+			],
+			[
+				"report",
+				"reportType"
+			],
+			[
+				"status",
+				"statuses"
+			],
+			[
+				"cherr",
+				"cherrypickerusl"
+			],
+			[
+				"file",
+				"filestring"
+			],
+			[
+				"url",
+				"urlParser"
+			],
+			[
+				"firebas",
+				"firebaseRef"
+			],
+			[
+				"gre",
+				"greyOut"
+			],
+			[
+				"item",
+				"itemActions"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "meow.sublime-project",
+			"settings":
+			{
+				"buffer_size": 176,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"TODO",
+				"TodoReview: Project Files"
+			],
+			[
+				"instea",
+				"Package Control: Install Package"
+			],
+			[
+				"Tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"Todo",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git reset (un",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"jeky",
+				"Jekyll: New draft"
+			],
+			[
+				"Jek",
+				"Jekyll: New post"
+			],
+			[
+				"jek",
+				"Jekyll: Open post"
+			],
+			[
+				"PAck",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"--fix",
+			"--fiv",
+			"eslint -fix",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"rails generate model image",
+			"rails g model image",
+			"install Centurion",
+			"centurion",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cro/websites/meow",
+		"/Users/cro/websites/meow/public",
+		"/Users/cro/websites/meow/src",
+		"/Users/cro/websites/meow/src/components"
+	],
+	"file_history":
+	[
+		"/Users/cro/websites/meow/meow.sublime-project",
+		"/Users/cro/websites/meow/meow",
+		"/Users/cro/websites/meow/open",
+		"/Users/cro/websites/diakitties/.bablerc",
+		"/Users/cro/websites/diakitties/webpack.config.js",
+		"/Users/cro/.npm/_logs/2018-10-24T18_00_15_119Z-debug.log",
+		"/Users/cro/websites/diakitties/app/frontend/src/components/App.js",
+		"/Users/cro/websites/diakitties/app/frontend/src/components/DataProvider.js",
+		"/Users/cro/websites/diakitties/app/frontend/src/components/Table.js",
+		"/Users/cro/websites/diakitties/app/frontend/src/index.js",
+		"/Users/cro/websites/diakitties/app/frontend/src/.eslintrc.json",
+		"/Users/cro/websites/diakitties/.eslintrc",
+		"/Users/cro/websites/diakitties/app/frontend/urls.py",
+		"/Users/cro/websites/diakitties/package.json",
+		"/Users/cro/websites/diakitties/app/frontend/src/components/react.sublime-project",
+		"/Users/cro/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/cro/Library/Application Support/Sublime Text 3/Packages/JSHint/Base File.sublime-settings",
+		"/Users/cro/.npm/_logs/2018-10-19T20_27_04_067Z-debug.log",
+		"/Users/cro/websites/diakitties/app/frontend/src/components/index.js",
+		"/Users/cro/websites/diakitties/open",
+		"/Users/cro/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/cro/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/cro/websites/diakitties/app/.bablerc",
+		"/Users/cro/websites/diakitties/app/webpack.config.js",
+		"/Users/cro/websites/diakitties/app/diakitties/fixtures/diakitties.json",
+		"/Users/cro/websites/diakitties/project/diakitties/serializers.py",
+		"/Users/cro/websites/diakitties/project/diakitties/models.py",
+		"/Users/cro/websites/diakitties/project/diakitties/urls.py",
+		"/Users/cro/websites/diakitties/project/diakitties/views.py",
+		"/Users/cro/websites/diakitties/project/project/urls.py",
+		"/Users/cro/websites/diakitties/project/project/settings.py",
+		"/Users/cro/websites/diakitties/project/manage.py",
+		"/Users/cro/websites/diakitties/project/diakitties/apps.py",
+		"/Users/cro/websites/diakitties/project/diakitties/tests.py",
+		"/diakitties spec.txt",
+		"/Users/cro/websites/diakitties/diakitties/diakitties/settings.py",
+		"/Users/cro/websites/diakitties/settings.py",
+		"/Users/cro/Desktop/glucosecurve.js",
+		"/Users/cro/bikeygames/css/bikeygames.css",
+		"/Users/cro/bikeygames/index.html",
+		"/Users/cro/Downloads/startbootstrap-grayscale-gh-pages/index.html",
+		"/Users/cro/Downloads/startbootstrap-grayscale-gh-pages/package.json",
+		"/Users/cro/Downloads/startbootstrap-grayscale-gh-pages/package-lock.json",
+		"/Users/cro/Downloads/startbootstrap-grayscale-gh-pages/gulpfile.js",
+		"/Users/cro/Downloads/startbootstrap-grayscale-gh-pages/README.md",
+		"/Users/cro/Downloads/startbootstrap-grayscale-gh-pages/LICENSE",
+		"/Users/cro/js/Cranksgiving 2018/public/styles/local.css",
+		"/Users/cro/js/Cranksgiving 2018/public/styles/bootstrap.min.css",
+		"/Users/cro/js/Cranksgiving 2018/scripts/controllers/listController.js",
+		"/Users/cro/js/Cranksgiving 2018/server.js",
+		"/Users/cro/js/Cranksgiving 2018/scripts/services/list.js",
+		"/Users/cro/js/Cranksgiving 2018/public/views/list.html",
+		"/Users/cro/js/Cranksgiving 2018/public/index.html",
+		"/Users/cro/js/Cranksgiving 2018/public/styles/creative.css",
+		"/Users/cro/js/Cranksgiving 2018/node_modules/ng-dialog/CHANGELOG.md",
+		"/Users/cro/js/Cranksgiving 2018/public/views/admin.html",
+		"/Users/cro/js/Cranksgiving 2018/public/krmApp.js",
+		"/Users/cro/websites/cranksgiving/cranksgiving/settings.py",
+		"/Users/cro/Desktop/gear_inches_calc.js",
+		"/private/var/folders/c6/wqytb0fs69j9hk4n7kvtl60m0000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/c6/wqytb0fs69j9hk4n7kvtl60m0000gn/T/fz3temp-2/wp-config.php",
+		"/Users/cro/websites/restless_leg/wp-config.php",
+		"/Users/cro/websites/restless_leg/wp-content/themes/rock-n-rolla/inc/customizer.php",
+		"/Users/cro/websites/restless_leg/wp-content/themes/rock-n-rolla/assets/css/prettyPhoto.css",
+		"/Users/cro/websites/restless_leg/wp-content/themes/rock-n-rolla/inc/custom-header.php",
+		"/Users/cro/websites/restless_leg/wp-content/themes/rock-n-rolla/footer.php",
+		"/Users/cro/websites/restless_leg/wp-content/themes/rock-n-rolla/header.php",
+		"/Users/cro/websites/restless_leg/wp-content/themes/rock-n-rolla/functions.php",
+		"/Users/cro/SCL_Custom_Djiarorir",
+		"/Users/cro/websites/scl/wp-config.php",
+		"/Users/cro/websites/scl/wp-login.php",
+		"/Users/cro/websites/scl/wp-settings.php",
+		"/Users/cro/Documents/Python/maters/class_test.py",
+		"/Users/cro/Documents/Python/maters/console_print.py",
+		"/Users/cro/Documents/Python/maters/timer.py",
+		"/Users/cro/toolkit-for-ynab/source/common/res/features/popup-calculator/budget/budget_calc.css",
+		"/Users/cro/toolkit-for-ynab/source/common/res/features/popup-calculator/budget/main.js",
+		"/Users/cro/toolkit-for-ynab/sauce/core/feature.js",
+		"/Users/cro/toolkit-for-ynab/sauce/features/budget/enable-retro-calculator/index.js",
+		"/Users/cro/toolkit-for-ynab/sauce/helpers/toolkit.js",
+		"/Users/cro/Documents/Python/maters/maters.py",
+		"/Users/cro/Documents/Python/maters.py",
+		"/Users/cro/Documents/Python/gt.py",
+		"/Users/cro/Downloads/VolumeCalculator21.rb",
+		"/Users/cro/websites/appointments/app/views/layouts/booking.html",
+		"/Users/cro/websites/appointments/Gemfile",
+		"/Users/cro/websites/appointments/app/views/booking/index.html",
+		"/Users/cro/websites/appointments/app/views/index.html",
+		"/Users/cro/websites/appointments/config/routes.rb",
+		"/Users/cro/websites/appointments/app/controllers/booking_controller.rb",
+		"/Users/cro/websites/appointments/app/views/layouts/test_application.html.erb",
+		"/Users/cro/websites/test/index.htm",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/schedule_hold.html",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/calendar-directive.html",
+		"/Users/cro/Downloads/cloud-to-butt-master/Source/content_script.js",
+		"/Users/cro/Downloads/cloud-to-butt-master/README.md",
+		"/Volumes/4XFER/Moon_LEFT_Photo_CU.png",
+		"/Volumes/4XFER/Moon_Left_Render_CU.png",
+		"/Users/cro/GSMC.js/img/colonelsanders copy.jpg",
+		"/Users/cro/websites/appointments/db/vacationseed.rb",
+		"/Users/cro/websites/appointments/db/migrate/20170301182212_add_index_to_start.rb",
+		"/Users/cro/websites/appointments/db/migrate/20160703191220_create_appointments.rb",
+		"/Users/cro/websites/restless_leg/wp-content/themes/restaurant-and-cafe/inc/extra.php",
+		"/Users/cro/websites/restless_leg/wp-content/themes/restaurant-and-cafe/functions.php",
+		"/Users/cro/websites/appointments/app/controllers/application_controller.rb",
+		"/Users/cro/websites/appointments/app/assets/javascripts/app.js",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/schedule.html.erb",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/appt-directive.html",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/registration.html.erb",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/login.html.erb",
+		"/Users/cro/websites/appointments/app/assets/javascripts/templates/password_reset.html",
+		"/Users/cro/websites/appointments/app/assets/javascripts/auth.js",
+		"/Users/cro/websites/appointments/app/assets/javascripts/controllers/mainController.js",
+		"/Users/cro/websites/appointments/app/assets/javascripts/directives/calendarDirective.js",
+		"/Users/cro/websites/appointments/app/assets/javascripts/services/ShopServicesFactory.js",
+		"/Users/cro/websites/appointments/app/models/appointment.rb",
+		"/Users/cro/websites/appointments/Bowerfile",
+		"/Users/cro/websites/appointments/app/assets/javascripts/application.js",
+		"/Users/cro/websites/appointments/app/assets/javascripts/services/AppointmentsFactory.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/ctci-c1p6.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/specs/p5_spec.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/ctci-c1p5.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/ctci-c1p4.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/specs/palindrome_spec.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/package.json",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/p5_spec.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/strings/palindrome_spec.js",
+		"/Users/cro/Documents/Cracking The Coding Interview/palindromes/ctci-c1p4.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "meow.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "meow.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"# 0.3.4"
+			],
+			[
+				"masked",
+				"$HttpParamSerializerJQLikeProvider"
+			],
+			[
+				"app",
+				"Application"
+			],
+			[
+				" ",
+				"# Changelog"
+			]
+		],
+		"width": 771.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
