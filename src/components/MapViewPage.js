@@ -7,9 +7,13 @@ export default class MapViewPage extends React.Component {
     super(props);
 
     this.state = {
+      // checkpoint: {
+      //   lat: 38.068224,
+      //   lon: -84.4890112
+      // }
       checkpoint: {
-        lat: 38.068224,
-        lon: -84.4890112
+        lat: 38.019668,
+        lng: -84.531981
       }
     }
   }
